@@ -1,0 +1,7 @@
+es/etg/psp/productos/service/ProductoService.class
+es/etg/psp/productos/Main.class
+es/etg/psp/productos/controller/ProductoController.class
+es/etg/psp/productos/config/AppConfig.class
+es/etg/psp/productos/data/ProductoRepository.class
+es/etg/psp/productos/config/JpaConfig.class
+es/etg/psp/productos/data/Producto.class

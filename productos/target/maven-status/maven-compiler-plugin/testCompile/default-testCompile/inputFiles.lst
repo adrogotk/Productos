@@ -1,0 +1,3 @@
+/home/debian/Productos/productos/src/test/java/es/etg/psp/productos/controller/ProductoControllerTests.java
+/home/debian/Productos/productos/src/test/java/es/etg/psp/productos/data/ProductoRepositoryTests.java
+/home/debian/Productos/productos/src/test/java/es/etg/psp/productos/service/ProductoServiceTests.java

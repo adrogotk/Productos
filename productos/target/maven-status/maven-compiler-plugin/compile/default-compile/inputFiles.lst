@@ -1,0 +1,7 @@
+/home/debian/Productos/productos/src/main/java/es/etg/psp/productos/Main.java
+/home/debian/Productos/productos/src/main/java/es/etg/psp/productos/config/AppConfig.java
+/home/debian/Productos/productos/src/main/java/es/etg/psp/productos/config/JpaConfig.java
+/home/debian/Productos/productos/src/main/java/es/etg/psp/productos/controller/ProductoController.java
+/home/debian/Productos/productos/src/main/java/es/etg/psp/productos/data/Producto.java
+/home/debian/Productos/productos/src/main/java/es/etg/psp/productos/data/ProductoRepository.java
+/home/debian/Productos/productos/src/main/java/es/etg/psp/productos/service/ProductoService.java
